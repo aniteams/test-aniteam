@@ -1,0 +1,17 @@
+{
+  "node": {
+    "40e75e3452ac23d14b5c41dcdf9d96deaee18ff085": {
+      "workers": {
+        "app/anime/[id]/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Clordr%5C%5CDownloads%5C%5CAniTeams-main%5C%5Capp%5C%5Cactions%5C%5CaniListFetch.js%22%2C%5B%7B%22id%22%3A%2240e75e3452ac23d14b5c41dcdf9d96deaee18ff085%22%2C%22exportedName%22%3A%22fetchAnimeData%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/anime/[id]/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "a5Uqe1TugabxutoOuz/nmA5ZlnEa2HZS/UIFVQ6hcAA="
+}
